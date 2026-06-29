@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="sho" width="880"></p>
+
 # Genjo: Large Language Diffusion Model
 
 [![arXiv](https://img.shields.io/badge/arXiv-2502.09992-red.svg)](https://arxiv.org/abs/2502.09992)
