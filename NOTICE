@@ -1,0 +1,26 @@
+Sho
+Copyright (c) 2025 Hanzo AI, Inc.
+
+This product is derived from LLaDA (Large Language Diffusion Models).
+
+  Upstream: ML-GSAI/LLaDA
+  Source:   https://github.com/ML-GSAI/LLaDA
+  Authors:  Shen Nie, Fengqi Zhu, Zebin You, Xiaolu Zhang, Jingyang Ou,
+            Jun Hu, Jun Zhou, Yankai Lin, Ji-Rong Wen, Chongxuan Li
+            (ML-GSAI, Renmin University of China)
+  License:  The upstream repository ships no repository-level LICENSE file.
+            Per its README, the LLaDA-8B-Base and LLaDA-8B-Instruct model
+            weights are released under MIT, and iLLaDA-8B under Apache-2.0.
+            This fork carries the MIT terms in LICENSE, crediting the
+            upstream author alongside Hanzo AI, Inc.
+
+Reference:
+
+  @article{nie2025large,
+    title={Large Language Diffusion Models},
+    author={Nie, Shen and Zhu, Fengqi and You, Zebin and Zhang, Xiaolu and
+            Ou, Jingyang and Hu, Jun and Zhou, Jun and Lin, Yankai and
+            Wen, Ji-Rong and Li, Chongxuan},
+    journal={arXiv preprint arXiv:2502.09992},
+    year={2025}
+  }
