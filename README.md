@@ -1,6 +1,5 @@
 <p align="center"><img src=".github/hero.svg" alt="sho" width="880"></p>
 
-> Forked from [ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA) (upstream ships no repository LICENSE; the LLaDA-8B model weights are stated as MIT). See [NOTICE](NOTICE).
 
 # Genjo: Large Language Diffusion Model
 
